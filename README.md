@@ -37,7 +37,7 @@ A **Telecom Management System** demonstrating:
 ## 📊 Visual Dashboards & ERD
 
 <details>
-  <summary>عرض الصور (Click to expand)</summary>
+  <summary>Diagrams (Click to expand)</summary>
 
 ### ERD Diagram
 ![ERD Diagram](./01_ERD/telecom_ERD.jpg)
