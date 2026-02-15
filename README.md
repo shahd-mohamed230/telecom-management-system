@@ -43,7 +43,7 @@ A **Telecom Management System** demonstrating:
 ![ERD Diagram](./01_ERD/telecom_ERD.jpg)
 
 ### Mapping Diagram
-![Mapping](./02_Logical_Physical_Schema/Telecom Mapping.drawio (1).png)
+![Mapping](./02_Logical_Physical_Schema/Telecom_Mapping.png)
 
 </details>
 
