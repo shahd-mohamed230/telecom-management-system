@@ -34,18 +34,6 @@ A **Telecom Management System** demonstrating:
 
 ---
 
-## 📂 Project Structure
-
-```text
-telecom-management-system/
-├── 01_ERD/                     # ER Diagram (Images & PDFs)
-├── 02_Logical_Physical_Schema/ # Database schemas
-├── 03_SQL_Scripts/             # Tables, functions, procedures, triggers, transactions, CTEs
-├── 04_Backup/                  # Database backup
-└── README.md                   # Project documentation
-
----
-
 ## 📊 Visual Dashboards & ERD
 
 <details>
@@ -58,4 +46,16 @@ telecom-management-system/
 ![Mapping](./02_Logical_Physical_Schema/Telecom Mapping.drawio (1).png)
 
 </details>
+
+---
+
+## 📂 Project Structure
+
+```text
+telecom-management-system/
+├── 01_ERD/                     # ER Diagram (Images & PDFs)
+├── 02_Logical_Physical_Schema/ # Database schemas
+├── 03_SQL_Scripts/             # Tables, functions, procedures, triggers, transactions, CTEs
+├── 04_Backup/                  # Database backup
+└── README.md                   # Project documentation
 
